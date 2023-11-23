@@ -1,0 +1,103 @@
+<?php
+$module_name = 'C2011_Payment';
+$viewdefs [$module_name] = 
+array (
+  'EditView' => 
+  array (
+    'templateMeta' => 
+    array (
+      'maxColumns' => '2',
+      'widths' => 
+      array (
+        0 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+        1 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+      ),
+      'javascript' => '<script type="text/javascript"></script>',
+      'includes' => 
+      array (
+        0 => 
+        array (
+          'file' => 'include/javascript/custom/payments.js',
+        ),
+      ),
+      'useTabs' => false,
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
+    ),
+    'panels' => 
+    array (
+      'default' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'c2011_payment_opportunities_name',
+            'label' => 'LBL_C2011_PAYMENT_OPPORTUNITIES_FROM_OPPORTUNITIES_TITLE',
+          ),
+          1 => 
+          array (
+            'name' => 'etapa_de_avaluos_c',
+            'label' => 'LBL_ETAPA_DE_AVALUOS',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'monto',
+            'label' => 'LBL_MONTO',
+          ),
+          1 => 
+          array (
+            'name' => 'cuenta_c',
+            'label' => 'LBL_CUENTA',
+          ),
+        ),
+        2 => 
+        array (
+          0 => '',
+          1 => 
+          array (
+            'name' => 'cliente_c',
+            'label' => 'LBL_CLIENTE',
+          ),
+        ),
+        3 => 
+        array (
+          0 => '',
+          1 => 
+          array (
+            'name' => 'avaluador_asignado_c',
+            'label' => 'LBL_AVALUADOR_ASIGNADO',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'description',
+            'comment' => 'Full text of the note',
+            'label' => 'LBL_DESCRIPTION',
+          ),
+        ),
+      ),
+    ),
+  ),
+);
+;
+?>

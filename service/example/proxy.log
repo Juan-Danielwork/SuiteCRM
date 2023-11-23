@@ -1,0 +1,1687 @@
+client headers:array (
+  'Host' => '23.253.57.61',
+  'Accept-Charset' => 'iso-8859-1,utf-8;q=0.9,*;q=0.1',
+  'Accept-Language' => 'en',
+  'Connection' => 'Keep-Alive',
+  'Referer' => 'http://23.253.57.61/service/example/',
+  'Cookie' => 'sugar_user_theme=SuiteP; PHPSESSID=tmuubdvutikiudkgnvo1vqjsje',
+  'User-Agent' => 'SPSC_NESSUS',
+  'Pragma' => 'no-cache',
+  'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+  'Accept-Encoding' => 'gzip',
+)
+starting curl request
+
+finished curl request
+response:'HTTP/1.1 200 OK
+Date: Sun, 29 Aug 2021 18:16:02 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 4498
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+ã' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'Ìkoπˆ3¸
+K)5°••¿jA€ñÌ,∞Z]!93N„€…ÃÏ<¢´˝Ô˜ú„cèg2ì§•è∞4´Öd∆>∂œ˚aõ”L=ªÔﬁmqO|úË\\ëÃs_d,Ù4ç‘T≈Ö,tÛ´qí	E¢ò(ë©ºπ Nu†r' . "\0" . 'qˇˆsjÛI¸X¬„g‹ÂCy,≥˜–ˆÉizpÖ˙R®8‰ó™ëˇÓ≥¯ﬂm!n√ˇ}Ò<âÛB∆@›1œˇ6/>‡¥ëfI™≤B+h∞kÒŒ<ú√L“rA≥‹¥æ3Qºy;˙Ø
+
+Òy⁄Tì$\\Îù7H˝Õo∂√É=;∏yT!Åg`@ãi¯Pÿñfç¯Å!d&°â ¸u–ZÏÒØö©øJù©ô∏ìôéèi¯˘˚∂˘ì˛"¢‚ÁûxØ†ù:UBä⁄G  ˝g4…\\Ö®{Ùb¿Ìm∑üR0CÉ‹…Uû#ÙY¸ıË∞@Qf1ÄÕ<p”©NJ`#bëDD…±éßIXFj√ÚÍG‡(˙ûåâªÃkÑbÅøÇ$\\è≥d:Ü_©C>I ¶†®=Ú' . "\0" . 'Ãd.BX~4EáÄ ≠`"„cúÖÖô>' . "\0" . './ P\'"LÄ“qR9#£x`e·ó{L√$úé!Ú›A◊íuhWÍH–Àèß2*U≥◊añ…π@‘G0ã·X´ñ' . "\0" . 'E§AÙQ¸Ê' . "\0" . 'S“qï!M  h˘¿†+IQîe$R«U@©df‰:â£πàï¬Ó5†sPhfÿò‡ùH«\'D∆aë,áí^’ÊÍö°v	iD%ÉIı|[Ãø<4°§ö' . "\0" . '±Ÿ@¸ÇΩæzùcˆƒ”gÇæmô?{ÿäûäûöJeZÄ°{€¢G√xùz:ƒ«µñ¯' . "\0" . 'P7L ø¶ôû lÓﬁﬁΩ{◊‚ÖYï√œ¯”E
+}=¬ãA1ÉÂl‚1≥ÓTÍåPÑDÃIãP¿ÆÛ®æ ôëßeÙû)tÀåô©àîw>—ÈÚ°õ`Ë•˙"i`‡=2?∆ê#¿ÇêAêî®ï	OÇ1Åìç≠∏“lg$*Qíú¿\'äáﬁ"5
+(w?qÂÙ§A!Òâ\'Xoæ≥Ùß‚ˆâ–Iøˆ∆£›ÉGOıáOv˙;Ú…~_ª˙˚OvF{Ú`§âª§~WOÕ<…\':¸%bÑÇdäêt@b^ÚaÏ`˚ΩéˆÜÛ˚ÌBø≈9Øáê˝ùΩÒ„PÓˆÏÓè˙ÚÒ„˛ì@ç!·˛ﬁ√ÉÉs!±1…6à≠Ø;Ñ˙œä$àä"µ\'zô˛"Aˆú~{¯N®,K≤mbÒò•ˆ~ã)áÒDe∫hıZöÜ˛XC˘ïÊ˛·∫ÊûÕÓÁ∂∆ªç∆æqmÌ†—X£µ›ﬁ¬,|c‘⁄eø—•€>ú¡u±Vƒ7úŒ{/T£Ÿ:zaM›·ª#1”‡Ü†ü%≈	¸*&†ú“$+ÿ7∏Òx.Õ„a◊@≥√ÎZ# ´Ω€ç«s„Ò‹x<7œç«Ûz<ò&˘V|ûf”úûòÀ‹z' . "\0" . 'ö¥éÂ	ã}‘ú@Å¬h»ÜØd\\Û[îò"ƒ‡(u§~ÚwÑÚÔœ≤K˛´Tπ~V_e
+”£ e‰ó¢2¿°f∞L—£◊Ω@–Be√ëÉEøë-‡“I.2òrn”Ñ	”W«ÊN2Á™∞¥0Ë¸Vòúf¬~Ç‹LámaÇ7€›.⁄OÂó!”¿2' . "\0" . '<“”r*‚r:Ç&Ä+ÅN&I¡CSc4/V)Â§aÇ$Î„23ÖÉ$De—<ƒÒÿNS`ÂT/0˚(I"q\'Æ*ÂL«2FÉeüŸ	±H¢»Vºµ-ä¨\\÷‹c√äaXŸ∂Ëî…Î#Îi∆˙j5ñ,º˙ß´/@©pF¬X\\∞©@¥à-í	äce4ìÛ‹™:ßoYH”®4ÊÖBSq•8**Ì¶„P≤ §å∞ÊÜöÖè\\Ÿ2é–Ÿò\'%jı†å∞ÈA;I^èò»4U±ï≈ J¿y¿ñ±–û“t`fç8ÅFù·<ù†∑ª	nBÄÔ=8op°iOíºïq¿ìeqÄuº8‡©xÛ«Î◊K¬ØèÔd.Î˜†—œxjÀzÏ5z8ólYß˝f\'£:óuy∏ÄﬂÀZ÷Û†—≥€˝YÂQ£ûß∞¨ﬂ„F?kÑü≤_}' . "\0" . 'º∏bµØŒ¡à3Í∂ò%^P ∫PS0`77Q	Gƒ' . "\0" . 'ËÕÈ∫k‹mAéµß6ûcÁ[ì—Nc›XÔ&˙' . "\0" . 'yŸH5Î˘Á©
+4pc(<<µC$&∆mE¶g…gLò»#¡˜	:9QËäöV&¸¯CÎ∆´Xe»KÌ!3⁄êS‹.øm–“1ÃΩ˝¡Úˆ—⁄„í]R˘F±≤&?QÛ‹‚¿¥D(¸BÄ¬Q	ÿÿ¶7•£ø£ÆõeÑâ<]ÿ£‡¢#„8Ø∑,¯€Ï\\r' . "\0" . '∞ë*Ú⁄…	,ƒ<Eﬁxâ∆«√Eö ˆ|dì(è¡	p@∂' . "\0" . 'ûÒË2 MüﬂzáA¶àxæ{˛k2ÉÄ(û7à7ëËå√‰πOª?äëãéVBÑT9¶Éw>–≈ÖB´\'Fn2∑øv' . "\0" . 'L‹∞FàU¡£ç»V˙k≠¸`S;≠ï!Ùyz-Ûﬂ‘Oôm◊Ú' . "\0" . 'X2æÃä”#}^≈Å6–˛ß€„:»T±úµ:øaˆkÎ/«ÒôÈÀŸ±¯.C-„+6⁄u‹–ó¡Ç◊qå)œsŸÚ∂æg∂Ë¶;∞ñ’Uû¥≤Ïqd’w‚Ë∆‘oÇ©ø˜UˇÏ˝ÍR‡e¸„⁄iÒ◊,	.ËΩ¥˘^á“mÏΩ^5¡=CΩ1H"Ã0 öm’—òﬂ¨≥ÆÆlYUÎnDÛ™pÁ	&%GÕè$˜‹r"ú„ë#ƒ[∏LÚ9∆ºñ
+' . "\0" . 't<NÃIÑÿ&ei|l\\…–R¿q∏[Øô∑5˝ì7Ñï±.Ê.πÓ<AWAÙÂõ¥‰
+Œí,ËÄ÷í(hb3rN»˘+Ã>cw-Ã
+;/–UÄ≤U}˝r0?√“.ûZ°88—±é=ãâFáõùolm‡s≠,L8«Yèu*¬à-UOπÓÂªÆÑƒ÷—´7oﬂø|—¨$÷˝,[Æ\\_“ ∂¶<µ$cpI◊]OU6ØèF‡€ºúπÁÑ2â	πÙ”)B	¯FäªMæ1e¿k*°Ú}]aœlËèË
+
+zŒ≤‹Tˆn*{\\ŸªﬁÕ}gÛÎwâºöù_ÀªoòÃµ|˚µmbwIo!RW	§!Ó˛' . "\0" . '„gb‡ñ√§õÍ4ˇvnj®f·ÉﬁN´XÙ„ç©dŒ@Èä\\´≠˛.ûﬂ!ïıuõ.(w±ﬁë≠Ωç–mMn8á/Óæ‚+‚zVòdïØ¿<Œ9>,6N“ÛﬁB∂ˇËEÓ}~…RëbøŒπÖç¸|•‰øNÃÜDéeT†xöF∏&⁄.ı@Û√≤òÿzvJ|@Ú_º°+Ó° –ˆ-˜Õ+ñ‘íÊvÎ∑>ûB≈AB\'ªÏÈ/<ÒEö#∞ÇÁË≠ G¢ïîÍÄ!˘œ2Øè`v"ítHΩ∑´ÈÒ^Âﬂ^<ÑVSÀÆi$qVfÎ≠iŸ•≥<ƒµÈ,ˇ5Ê/Qÿ@í¶Å!Xsm=/≥VÕA¡≤¬Öæ{ÎáπÊ˘9x»dµ{>àC#íIà}0‘ã@Ôï∏ÌöË÷%ß«spÏA‡{Ñ›í≤¢^]´Q<°ç=åÌ0 \\èﬁ6£¬ Å”\\AqKÂöGÕ
+X¿˝Z˘ "ÒêSÀ¥†áXVá€ÔÚWã˛uÇy’÷=©CØKkëQΩ0}UIˆZÀÁKqUPaa]g#kÔπ˛óY2Ø±i!p?0eJµ‰ü|2gûtq1
+K ÀiZÃ7ÅKçv„P√¨uëÔï*r∫äÃÕ8xtc¸‡„ljXàri–6\'==é‰)’fBq<-ÜÖûvy!}€÷SÆöÂe∞€ÿâÏBS˝ÿùpÏ˚ÍpÖ9JÁ
+2v≠π» 8ÕÏJC‡Z∞ø—-' . "\0" . 'õ∞©s¯£_[¢˜ü˛¥ä_–?‰=F+u¬Ïf,^˝ˆqpÌLáπ"3˘!%‘=Ókg¨û≠‡ó|êÑ°≠Ì
+iV;\\ôl[
+ö0Ω$/÷mÃj#®a±z’z¿	—©ÃB5Æ	=s9ßæ¨¢ØóúnÇ—ÀF´õµmª˛éùl%Ûäå‡^.	ø¶ÒBßõIÃ¡wÊ≥„ éP%pœﬂ+	nÑº÷¥…A©∑¡‘ùJ©oJÌRÔTÜd¿<≤íS:hhD”r/ôëUf∂îÑefÆÁÛòÆ~†€’©˝›˙±M]qP®ΩÄu1v⁄Y⁄=k∞mp."—a=\\/v∏hcpÜÇ∂ÊA§(õsí¡Ñv8†˜.ﬁ$EÂÎΩ≠vŸ]@tΩπiêî≥&ÌH∫˘ê´∫˜ü€™.∫í9n@rÁ|IB£éÇa^„ëÁ]∫‚ä9Æ¡”[<éM™◊7« ≤LÂZ«V0*Ñv™Hˇc·èu§Ã.‘sg¸≥éqv@GÊ!NYa’›]©öªå;≥*4∂£ö∂™ÿ=¬TY÷ÑÀãØ%÷›nÌ,…ú≥øHªk∑4ò¯ƒe=1\\•\\Ü≠!‹ÆøM1ˆıÖ˜í»senb€V5ô‚Uƒô∆∫JMç5¯¢Å+vˇsiÇÔæZ	|ù∞˚¬Î¨/D,ÇæVwq#ÑXØﬁDêcZdUÕ ¡69@hò•«fWdqÔÿaánF]y´.ë∂£HË6Ò%<ÊÜ∞‹’å+KoÁS3;€›Õ∂∫]ÖOBòÁg÷[W¢¸AŒ§öy?Cì ∫:b8ºËÎM¥ØãÏu-¬Ÿ2ç≤˙±J∏`#a.' . "\0" . '∞TLÄΩ\'@áô™‡‡mòAP$Ÿ|Ä–Ó‰(ô	iG2W¯Éó_ãz8ıó»(ë0zEeõwùSçö!òjbÓ˜πÚ(AC“~õ¶p»«Ωÿ#4ÂM˛’84_[8g-Gaq∞ï^√≠E}SSYg”XÑ7ÌKQXW£±nù€âπVè`C‘Œ>¡+}™bo\'íÒºHäs%3pªËdè˝an¡€∂	Xƒ:FÓû˚∂˙%æ†Îû´≥ÔOeîó∏]∂`[¸\\√üœeéglÓ`[ºV2Ñøﬁ∫sBﬂøÀ¥˙ÓÀGôülãﬂKƒ:∂P5nSAπ∞ÎnÜ¸‡Ú7á√÷~ü>€,_Nìqg:=–^÷Fo:jnØπe:zi{æ’ÜãVù›Ωõd¸^vŸ\\G,’væ`´g)∫‰ Hsñ≥?V;Ç—˚w2âÒQ’4íÌ-_$µKıÆœ… ⁄èÊ¬\\œ’´u<√ŒÏ5O[2[≠µ€ø•hÌ§Ç©$O•é‰(RNlbûjÍΩØ"¡Öq%Jr_Æ.5›,±‘ã˛ıÎ^dªµáÕ°„à´LL£/6¿*(„LÊ%˘≥„íjIå€dÈT–Te« ‰©9M•>é∑±ÓqC ò]Tº3Ä=ÇBBü"w#I>√g`Qñ\\°L\'»iô•IŒ§±3¨Ûç]÷π˘¶Ûî÷v8Ü¡£ :Dø|<∑>§Ì¬%S€DÙ¥Nÿ_,é±Äc7ˇ’‡0{˜≈õ˜•eQGÃ5Ów0|q-E:KáµÆèÒNë@&uJq—"k‰˛crŸ¯.vÈ‡O!Œ«£MÄ~)“À˙Ô†k¶ò^ÄdéÊ75æYx¶F¸œÿπ®ìˇEòÂüøæ|ˇíÁﬁÆy1ˆÏå–û1ùMn?„{0†=v€8MiW◊‚˛Õ≥µ[ >&Öå⁄÷ä€•jd!EcºØsH…≈^œY% ˚±µz…·≠¶O“ut
+ˇˇ˚ˆˇo«¯ﬁ[q' . "\0" . '' . "\0" . ''
+setting headers
+sending body
+done
+client headers:array (
+  'Host' => '23.253.57.61',
+  'Accept-Charset' => 'iso-8859-1,utf-8;q=0.9,*;q=0.1',
+  'Accept-Language' => 'en',
+  'Connection' => 'Keep-Alive',
+  'Referer' => 'http://23.253.57.61/',
+  'User-Agent' => 'SPSC_NESSUS',
+  'Pragma' => 'no-cache',
+  'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+  'Accept-Encoding' => 'gzip',
+)
+starting curl request
+
+finished curl request
+response:'HTTP/1.1 200 OK
+Date: Sun, 29 Aug 2021 18:16:06 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 4498
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+ã' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'Ìkoπˆ3¸
+K)5°••¿jA€ñÌ,∞Z]!93N„€…ÃÏ<¢´˝Ô˜ú„cèg2ì§•è∞4´Öd∆>∂œ˚aõ”L=ªÔﬁmqO|úË\\ëÃs_d,Ù4ç‘T≈Ö,tÛ´qí	E¢ò(ë©ºπ Nu†r' . "\0" . 'qˇˆsjÛI¸X¬„g‹ÂCy,≥˜–ˆÉizpÖ˙R®8‰ó™ëˇÓ≥¯ﬂm!n√ˇ}Ò<âÛB∆@›1œˇ6/>‡¥ëfI™≤B+h∞kÒŒ<ú√L“rA≥‹¥æ3Qºy;˙Ø
+
+Òy⁄Tì$\\Îù7H˝Õo∂√É=;∏yT!Åg`@ãi¯Pÿñfç¯Å!d&°â ¸u–ZÏÒØö©øJù©ô∏ìôéèi¯˘˚∂˘ì˛"¢‚ÁûxØ†ù:UBä⁄G  ˝g4…\\Ö®{Ùb¿Ìm∑üR0CÉ‹…Uû#ÙY¸ıË∞@Qf1ÄÕ<p”©NJ`#bëDD…±éßIXFj√ÚÍG‡(˙ûåâªÃkÑbÅøÇ$\\è≥d:Ü_©C>I ¶†®=Ú' . "\0" . 'Ãd.BX~4EáÄ ≠`"„cúÖÖô>' . "\0" . './ P\'"LÄ“qR9#£x`e·ó{L√$úé!Ú›A◊íuhWÍH–Àèß2*U≥◊añ…π@‘G0ã·X´ñ' . "\0" . 'E§AÙQ¸Ê' . "\0" . 'S“qï!M  h˘¿†+IQîe$R«U@©df‰:â£πàï¬Ó5†sPhfÿò‡ùH«\'D∆aë,áí^’ÊÍö°v	iD%ÉIı|[Ãø<4°§ö' . "\0" . '±Ÿ@¸ÇΩæzùcˆƒ”gÇæmô?{ÿäûäûöJeZÄ°{€¢G√xùz:ƒ«µñ¯' . "\0" . 'P7L ø¶ôû lÓﬁﬁΩ{◊‚ÖYï√œ¯”E
+}=¬ãA1ÉÂl‚1≥ÓTÍåPÑDÃIãP¿ÆÛ®æ ôëßeÙû)tÀåô©àîw>—ÈÚ°õ`Ë•˙"i`‡=2?∆ê#¿ÇêAêî®ï	OÇ1Åìç≠∏“lg$*Qíú¿\'äáﬁ"5
+(w?qÂÙ§A!Òâ\'Xoæ≥Ùß‚ˆâ–Iøˆ∆£›ÉGOıáOv˙;Ú…~_ª˙˚OvF{Ú`§âª§~WOÕ<…\':¸%bÑÇdäêt@b^ÚaÏ`˚ΩéˆÜÛ˚ÌBø≈9Øáê˝ùΩÒ„PÓˆÏÓè˙ÚÒ„˛ì@ç!·˛ﬁ√ÉÉs!±1…6à≠Ø;Ñ˙œä$àä"µ\'zô˛"Aˆú~{¯N®,K≤mbÒò•ˆ~ã)áÒDe∫hıZöÜ˛XC˘ïÊ˛·∫ÊûÕÓÁ∂∆ªç∆æqmÌ†—X£µ›ﬁ¬,|c‘⁄eø—•€>ú¡u±Vƒ7úŒ{/T£Ÿ:zaM›·ª#1”‡Ü†ü%≈	¸*&†ú“$+ÿ7∏Òx.Õ„a◊@≥√ÎZ# ´Ω€ç«s„Ò‹x<7œç«Ûz<ò&˘V|ûf”úûòÀ‹z' . "\0" . 'ö¥éÂ	ã}‘ú@Å¬h»ÜØd\\Û[îò"ƒ‡(u§~ÚwÑÚÔœ≤K˛´Tπ~V_e
+”£ e‰ó¢2¿°f∞L—£◊Ω@–Be√ëÉEøë-‡“I.2òrn”Ñ	”W«ÊN2Á™∞¥0Ë¸Vòúf¬~Ç‹LámaÇ7€›.⁄OÂó!”¿2' . "\0" . '<“”r*‚r:Ç&Ä+ÅN&I¡CSc4/V)Â§aÇ$Î„23ÖÉ$De—<ƒÒÿNS`ÂT/0˚(I"q\'Æ*ÂL«2FÉeüŸ	±H¢»Vºµ-ä¨\\÷‹c√äaXŸ∂Ëî…Î#Îi∆˙j5ñ,º˙ß´/@©pF¬X\\∞©@¥à-í	äce4ìÛ‹™:ßoYH”®4ÊÖBSq•8**Ì¶„P≤ §å∞ÊÜöÖè\\Ÿ2é–Ÿò\'%jı†å∞ÈA;I^èò»4U±ï≈ J¿y¿ñ±–û“t`fç8ÅFù·<ù†∑ª	nBÄÔ=8op°iOíºïq¿ìeqÄuº8‡©xÛ«Î◊K¬ØèÔd.Î˜†—œxjÀzÏ5z8ólYß˝f\'£:óuy∏ÄﬂÀZ÷Û†—≥€˝YÂQ£ûß∞¨ﬂ„F?kÑü≤_}' . "\0" . 'º∏bµØŒ¡à3Í∂ò%^P ∫PS0`77Q	Gƒ' . "\0" . 'ËÕÈ∫k‹mAéµß6ûcÁ[ì—Nc›XÔ&˙' . "\0" . 'yŸH5Î˘Á©
+4pc(<<µC$&∆mE¶g…gLò»#¡˜	:9QËäöV&¸¯CÎ∆´Xe»KÌ!3⁄êS‹.øm–“1ÃΩ˝¡Úˆ—⁄„í]R˘F±≤&?QÛ‹‚¿¥D(¸BÄ¬Q	ÿÿ¶7•£ø£ÆõeÑâ<]ÿ£‡¢#„8Ø∑,¯€Ï\\r' . "\0" . '∞ë*Ú⁄…	,ƒ<Eﬁxâ∆«√Eö ˆ|dì(è¡	p@∂' . "\0" . 'ûÒË2 MüﬂzáA¶àxæ{˛k2ÉÄ(û7à7ëËå√‰πOª?äëãéVBÑT9¶Éw>–≈ÖB´\'Fn2∑øv' . "\0" . 'L‹∞FàU¡£ç»V˙k≠¸`S;≠ï!Ùyz-Ûﬂ‘Oôm◊Ú' . "\0" . 'X2æÃä”#}^≈Å6–˛ß€„:»T±úµ:øaˆkÎ/«ÒôÈÀŸ±¯.C-„+6⁄u‹–ó¡Ç◊qå)œsŸÚ∂æg∂Ë¶;∞ñ’Uû¥≤Ïqd’w‚Ë∆‘oÇ©ø˜UˇÏ˝ÍR‡e¸„⁄iÒ◊,	.ËΩ¥˘^á“mÏΩ^5¡=CΩ1H"Ã0 öm’—òﬂ¨≥ÆÆlYUÎnDÛ™pÁ	&%GÕè$˜‹r"ú„ë#ƒ[∏LÚ9∆ºñ
+' . "\0" . 't<NÃIÑÿ&ei|l\\…–R¿q∏[Øô∑5˝ì7Ñï±.Ê.πÓ<AWAÙÂõ¥‰
+Œí,ËÄ÷í(hb3rN»˘+Ã>cw-Ã
+;/–UÄ≤U}˝r0?√“.ûZ°88—±é=ãâFáõùolm‡s≠,L8«Yèu*¬à-UOπÓÂªÆÑƒ÷—´7oﬂø|—¨$÷˝,[Æ\\_“ ∂¶<µ$cpI◊]OU6ØèF‡€ºúπÁÑ2â	πÙ”)B	¯FäªMæ1e¿k*°Ú}]aœlËèË
+
+zŒ≤‹Tˆn*{\\ŸªﬁÕ}gÛÎwâºöù_ÀªoòÃµ|˚µmbwIo!RW	§!Ó˛' . "\0" . '„gb‡ñ√§õÍ4ˇvnj®f·ÉﬁN´XÙ„ç©dŒ@Èä\\´≠˛.ûﬂ!ïıuõ.(w±ﬁë≠Ωç–mMn8á/Óæ‚+‚zVòdïØ¿<Œ9>,6N“ÛﬁB∂ˇËEÓ}~…RëbøŒπÖç¸|•‰øNÃÜDéeT†xöF∏&⁄.ı@Û√≤òÿzvJ|@Ú_º°+Ó° –ˆ-˜Õ+ñ‘íÊvÎ∑>ûB≈AB\'ªÏÈ/<ÒEö#∞ÇÁË≠ G¢ïîÍÄ!˘œ2Øè`v"ítHΩ∑´ÈÒ^Âﬂ^<ÑVSÀÆi$qVfÎ≠iŸ•≥<ƒµÈ,ˇ5Ê/Qÿ@í¶Å!Xsm=/≥VÕA¡≤¬Öæ{ÎáπÊ˘9x»dµ{>àC#íIà}0‘ã@Ôï∏ÌöË÷%ß«spÏA‡{Ñ›í≤¢^]´Q<°ç=åÌ0 \\èﬁ6£¬ Å”\\AqKÂöGÕ
+X¿˝Z˘ "ÒêSÀ¥†áXVá€ÔÚWã˛uÇy’÷=©CØKkëQΩ0}UIˆZÀÁKqUPaa]g#kÔπ˛óY2Ø±i!p?0eJµ‰ü|2gûtq1
+K ÀiZÃ7ÅKçv„P√¨uëÔï*r∫äÃÕ8xtc¸‡„ljXàri–6\'==é‰)’fBq<-ÜÖûvy!}€÷SÆöÂe∞€ÿâÏBS˝ÿùpÏ˚ÍpÖ9JÁ
+2v≠π» 8ÕÏJC‡Z∞ø—-' . "\0" . 'õ∞©s¯£_[¢˜ü˛¥ä_–?‰=F+u¬Ïf,^˝ˆqpÌLáπ"3˘!%‘=Ókg¨û≠‡ó|êÑ°≠Ì
+iV;\\ôl[
+ö0Ω$/÷mÃj#®a±z’z¿	—©ÃB5Æ	=s9ßæ¨¢ØóúnÇ—ÀF´õµmª˛éùl%Ûäå‡^.	ø¶ÒBßõIÃ¡wÊ≥„ éP%pœﬂ+	nÑº÷¥…A©∑¡‘ùJ©oJÌRÔTÜd¿<≤íS:hhD”r/ôëUf∂îÑefÆÁÛòÆ~†€’©˝›˙±M]qP®ΩÄu1v⁄Y⁄=k∞mp."—a=\\/v∏hcpÜÇ∂ÊA§(õsí¡Ñv8†˜.ﬁ$EÂÎΩ≠vŸ]@tΩπiêî≥&ÌH∫˘ê´∫˜ü€™.∫í9n@rÁ|IB£éÇa^„ëÁ]∫‚ä9Æ¡”[<éM™◊7« ≤LÂZ«V0*Ñv™Hˇc·èu§Ã.‘sg¸≥éqv@GÊ!NYa’›]©öªå;≥*4∂£ö∂™ÿ=¬TY÷ÑÀãØ%÷›nÌ,…ú≥øHªk∑4ò¯ƒe=1\\•\\Ü≠!‹ÆøM1ˆıÖ˜í»senb€V5ô‚Uƒô∆∫JMç5¯¢Å+vˇsiÇÔæZ	|ù∞˚¬Î¨/D,ÇæVwq#ÑXØﬁDêcZdUÕ ¡69@hò•«fWdqÔÿaánF]y´.ë∂£HË6Ò%<ÊÜ∞‹’å+KoÁS3;€›Õ∂∫]ÖOBòÁg÷[W¢¸AŒ§öy?Cì ∫:b8ºËÎM¥ØãÏu-¬Ÿ2ç≤˙±J∏`#a.' . "\0" . '∞TLÄΩ\'@áô™‡‡mòAP$Ÿ|Ä–Ó‰(ô	iG2W¯Éó_ãz8ıó»(ë0zEeõwùSçö!òjbÓ˜πÚ(AC“~õ¶p»«Ωÿ#4ÂM˛’84_[8g-Gaq∞ï^√≠E}SSYg”XÑ7ÌKQXW£±nù€âπVè`C‘Œ>¡+}™bo\'íÒºHäs%3pªËdè˝an¡€∂	Xƒ:FÓû˚∂˙%æ†Îû´≥ÔOeîó∏]∂`[¸\\√üœeéglÓ`[ºV2Ñøﬁ∫sBﬂøÀ¥˙ÓÀGôülãﬂKƒ:∂P5nSAπ∞ÎnÜ¸‡Ú7á√÷~ü>€,_Nìqg:=–^÷Fo:jnØπe:zi{æ’ÜãVù›Ωõd¸^vŸ\\G,’væ`´g)∫‰ Hsñ≥?V;Ç—˚w2âÒQ’4íÌ-_$µKıÆœ… ⁄èÊ¬\\œ’´u<√ŒÏ5O[2[≠µ€ø•hÌ§Ç©$O•é‰(RNlbûjÍΩØ"¡Öq%Jr_Æ.5›,±‘ã˛ıÎ^dªµáÕ°„à´LL£/6¿*(„LÊ%˘≥„íjIå€dÈT–Te« ‰©9M•>é∑±ÓqC ò]Tº3Ä=ÇBBü"w#I>√g`Qñ\\°L\'»iô•IŒ§±3¨Ûç]÷π˘¶Ûî÷v8Ü¡£ :Dø|<∑>§Ì¬%S€DÙ¥Nÿ_,é±Äc7ˇ’‡0{˜≈õ˜•eQGÃ5Ów0|q-E:KáµÆèÒNë@&uJq—"k‰˛crŸ¯.vÈ‡O!Œ«£MÄ~)“À˙Ô†k¶ò^ÄdéÊ75æYx¶F¸œÿπ®ìˇEòÂüøæ|ˇíÁﬁÆy1ˆÏå–û1ùMn?„{0†=v€8MiW◊‚˛Õ≥µ[ >&Öå⁄÷ä€•jd!EcºØsH…≈^œY% ˚±µz…·≠¶O“ut
+ˇˇ˚ˆˇo«¯ﬁ[q' . "\0" . '' . "\0" . ''
+setting headers
+sending body
+done
+client headers:array (
+  'Host' => '23.253.57.61',
+  'Accept-Charset' => 'iso-8859-1,utf-8;q=0.9,*;q=0.1',
+  'Accept-Language' => 'en',
+  'Connection' => 'Keep-Alive',
+  'Cookie' => 'PHPSESSID=ps3o6n65lom2lp6np8tceau0o0',
+  'User-Agent' => 'SPSC_NESSUS',
+  'Pragma' => 'no-cache',
+  'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+)
+starting curl request
+
+finished curl request
+response:'HTTP/1.1 200 OK
+Date: Sun, 29 Aug 2021 18:25:33 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<pre>/**
+ * This class is an implementation class for all the rest services
+ */
+Class [ <user> class SugarRestServiceImpl extends SugarWebServiceImpl ] {
+  
+
+  - Constants [0] {
+  }
+
+  - Static properties [1] {
+    Property [ public static $helperObject ]
+  }
+
+  - Static methods [0] {
+  }
+
+  - Properties [0] {
+  }
+
+  - Methods [23] {
+    Method [ <user> public method md5 ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $string ]
+      }
+    }
+
+    /**
+     * Retrieve a single SugarBean based on ID.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $id -- The SugarBean\'s ID value.
+     * @param Array  $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $id ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of SugarBean\'s based on provided IDs. This API will not wotk with report module
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $ids -- An array of SugarBean IDs.
+     * @param Array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $ids ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of beans.  This is the primary method for getting list of SugarBeans from Sugar using the SOAP API.
+     *
+     * @param string $session -- Session ID returned by a previous call to login.
+     * @param string $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param string $query -- SQL where clause without the word \'where\'
+     * @param string $order_by -- SQL order by clause without the phrase \'order by\'
+     * @param integer $offset -- The record offset to start from.
+     * @param array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+     * @param array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+     * @param integer $max_results -- The maximum number of records to return.  The default is the sugar configuration value for \'list_max_entries_per_page\'
+     * @param bool $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return array \'result_count\' -- integer - The number of records returned
+     *               \'next_offset\' -- integer - The start of the next page (This will always be the previous offset plus the number of rows returned.  It does not indicate if there is additional data unless you calculate that the next_offset happens to be closer than it should be.
+     *               \'entry_list\' -- Array - The records that were retrieved
+     *                 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry_list ] {
+      
+
+      - Parameters [9] {
+        Parameter #0 [ <optional> $session = NULL ]
+        Parameter #1 [ <optional> $module_name = NULL ]
+        Parameter #2 [ <optional> $query = NULL ]
+        Parameter #3 [ <optional> $order_by = NULL ]
+        Parameter #4 [ <optional> $offset = NULL ]
+        Parameter #5 [ <optional> $select_fields = NULL ]
+        Parameter #6 [ <optional> $link_name_to_fields_array = NULL ]
+        Parameter #7 [ <optional> $max_results = NULL ]
+        Parameter #8 [ <optional> $deleted = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id - The ID of the bean in the specified module_name
+     * @param String link_field_name -- name of the link field which relates to the other module for which the relationship needs to be generated.
+     * @param array related_ids -- array of related record ids for which relationships needs to be generated
+     * @param array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @param integer $delete -- Optional, if the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationship ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <optional> $name_value_list = Array ]
+        Parameter #6 [ <optional> $delete = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param array $module_names -- Array of the name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param array $module_ids - The array of ID of the bean in the specified module_name
+     * @param array $link_field_names -- Array of the name of the link field which relates to the other module for which the relationships needs to be generated.
+     * @param array $related_ids -- array of an array of related record ids for which relationships needs to be generated
+     * @param array $name_value_lists -- Array of Array. The keys of the inner array are the SugarBean attributes, the values of the inner array are the values the attributes should have.
+     * @param array int $delete_array -- Optional, array of 0 or 1. If the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+    *
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationships ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_names ]
+        Parameter #2 [ <required> $module_ids ]
+        Parameter #3 [ <required> $link_field_names ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <required> $name_value_lists ]
+        Parameter #6 [ <required> $delete_array ]
+      }
+    }
+
+    /**
+     * Retrieve a collection of beans that are related to the specified bean and optionally return relationship data for those related beans.
+     * So in this API you can get contacts info for an account and also return all those contact\'s email address or an opportunity info also.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id -- The ID of the bean in the specified module
+     * @param String $link_field_name -- The name of the lnk field to return records from.  This name should be the name the relationship.
+     * @param String $related_module_query -- A portion of the where clause of the SQL statement to find the related items.  The SQL query will already be filtered to only include the beans that are related to the specified bean. (IGNORED)
+     * @param Array $related_fields - Array of related bean fields to be returned.
+     * @param Array $related_module_link_name_to_fields_array - For every related bean returrned, specify link fields name to fields info for that bean to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\'))).
+     * @param Number $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return Array \'entry_list\' -- Array - The records that were retrieved
+     *	     		 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts contacts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_relationships ] {
+      
+
+      - Parameters [8] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_module_query ]
+        Parameter #5 [ <required> $related_fields ]
+        Parameter #6 [ <required> $related_module_link_name_to_fields_array ]
+        Parameter #7 [ <required> $deleted ]
+      }
+    }
+
+    /**
+     * Update or create a single SugarBean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'id\' -- the ID of the bean that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entry ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Update or create a list of SugarBeans
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_lists -- Array of Bean specific Arrays where the keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'ids\' -- Array of the IDs of the beans that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entries ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_lists ]
+      }
+    }
+
+    /**
+     * Log the user into the application
+     *
+     * @param UserAuth array $user_auth -- Set user_name and password (password needs to be
+     *      in the right encoding for the type of authentication the user is setup for.  For Base
+     *      sugar validation, password is the MD5 sum of the plain text password.
+     * @param String $application -- The name of the application you are logging in from.  (Currently unused).
+     * @param array $name_value_list -- Array of name value pair of extra parameters. As of today only \'language\' and \'notifyonsave\' is supported
+     * @return Array - id - String id is the session_id of the session that was created.
+     * 				 - module_name - String - module name of user
+     * 				 - name_value_list - Array - The name value pair of user_id, user_name, user_language, user_currency_id, user_currency_name
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method login ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $user_auth ]
+        Parameter #1 [ <required> $application ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Log out of the session.  This will destroy the session and prevent other\'s from using it.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Empty
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method logout ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Gets server info. This will return information like version, flavor and gmt_time.
+     * @return Array - flavor - String - Retrieve the specific flavor of sugar.
+     * 				 - version - String - Retrieve the version number of Sugar that the server is running.
+     * 				 - gmt_time - String - Return the current time on the server in the format \'Y-m-d H:i:s\'. This time is in GMT.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_server_info ] {
+      
+    }
+
+    /**
+     * Return the user_id of the user that is logged into the current session.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return String -- the User ID of the current session
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_user_id ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Retrieve vardef information on the fields of the specified bean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $fields -- Optional, if passed then retrieve vardef information on these fields only.
+     * @return Array    \'module_fields\' -- Array - The vardef information on the selected fields.
+     *                  \'link_fields\' -- Array - The vardef information on the link fields
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_module_fields ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <optional> $fields = Array ]
+      }
+    }
+
+    /**
+     * Perform a seamless login. This is used internally during the sync process.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return 1 -- integer - if the session was authenticated
+     * @return 0 -- integer - if the session could not be authenticated
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method seamless_login ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Add or replace the attachment on a Note.
+     * Optionally you can set the relationship of this note to Accounts/Contacts and so on by setting related_module_id, related_module_name
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array \'note\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                              String \'filename\' -- The file name of the attachment
+     *                              Binary \'file\' -- The binary contents of the file.
+     * 								String \'related_module_id\' -- module id to which this note to related to
+     * 								String \'related_module_name\' - module name to which this note to related to
+     *
+     * @return Array \'id\' -- String - The ID of the Note
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $note ]
+      }
+    }
+
+    /**
+     * Retrieve an attachment from a note
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id -- The ID of the appropriate Note.
+     * @return Array \'note_attachment\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                                          String \'filename\' -- The file name of the attachment
+     *                                          Binary \'file\' -- The binary contents of the file.
+     * 											String \'related_module_id\' -- module id to which this note is related
+     * 											String \'related_module_name\' - module name to which this note is related
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * sets a new revision for this document
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array $document_revision -- Array String \'id\' -- 	The ID of the document object
+     * 											String \'document_name\' - The name of the document
+     * 											String \'revision\' - The revision value for this revision
+     *                                         	String \'filename\' -- The file name of the attachment
+     *                                          String \'file\' -- The binary contents of the file.
+     * @return Array - \'id\' - String - document revision id
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $document_revision ]
+      }
+    }
+
+    /**
+     * This method is used as a result of the .htaccess lock down on the cache directory. It will allow a
+     * properly authenticated user to download a document that they have proper rights to download.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id      -- ID of the document revision to obtain
+     * @return new_return_document_revision - Array String \'id\' -- The ID of the document revision containing the attachment
+     * 												String document_name - The name of the document
+     * 												String revision - The revision value for this revision
+     *                                         		String \'filename\' -- The file name of the attachment
+     *                                          	Binary \'file\' -- The binary contents of the file.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * Given a list of modules to search and a search string, return the id, module_name, along with the fields
+     * We will support Accounts, Bugs, Cases, Contacts, Leads, Opportunities, Project, ProjectTask, Quotes
+     *
+     * @param string $session			- Session ID returned by a previous call to login.
+     * @param string $search_string 	- string to search
+     * @param string[] $modules			- array of modules to query
+     * @param int $offset				- a specified offset in the query
+     * @param int $max_results			- max number of records to return
+     * @return Array \'entry_list\' -- Array(\'Accounts\' => array(array(\'name\' => \'first_name\', \'value\' => \'John\', \'name\' => \'last_name\', \'value\' => \'Do\')))
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method search_by_module ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $search_string ]
+        Parameter #2 [ <required> $modules ]
+        Parameter #3 [ <required> $offset ]
+        Parameter #4 [ <required> $max_results ]
+      }
+    }
+
+    /**
+     * Retrieve the list of available modules on the system available to the currently logged in user.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Array    \'modules\' -- Array - An array of module names
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_available_modules ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+    *   Once we have successfully done a mail merge on a campaign, we need to notify Sugar of the targets
+    *   and the campaign_id for tracking purposes
+    *
+    * @param String session  -- Session ID returned by a previous call to login.
+    * @param Array targets   -- a string array of ids identifying the targets used in the merge
+    * @param String campaign_id  --  the campaign_id used for the merge
+    * @return - No output
+    *
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_campaign_merge ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $targets ]
+        Parameter #2 [ <required> $campaign_id ]
+      }
+    }
+
+    /**
+*   Retrieve number of records in a given module
+*
+* @param String session      -- Session ID returned by a previous call to login.
+* @param String module_name  -- module to retrieve number of records from
+* @param String query        -- allows webservice user to provide a WHERE clause
+* @param int deleted         -- specify whether or not to include deleted records
+*
+* @return Array  result_count - integer - Total number of records for a given module and query
+* @exception \'SoapFault\' -- The SOAP error, if any
+*/
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries_count ] {
+      
+
+      - Parameters [4] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $query ]
+        Parameter #3 [ <required> $deleted ]
+      }
+    }
+  }
+}
+'
+setting headers
+sending body
+done
+client headers:array (
+  'Host' => '23.253.57.61',
+  'Accept-Charset' => 'iso-8859-1,utf-8;q=0.9,*;q=0.1',
+  'Accept-Language' => 'en',
+  'Connection' => 'Keep-Alive',
+  'Cookie' => 'PHPSESSID=ha0jo7hr7oq3icl1i4lfkdvedh',
+  'User-Agent' => '() { ignored; }; echo Content-Type: text/plain ; echo ; echo "bash_cve_2014_6271_rce Output : $((49+44))"',
+  'Pragma' => 'no-cache',
+  'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+)
+starting curl request
+
+finished curl request
+response:'HTTP/1.1 200 OK
+Date: Sun, 29 Aug 2021 18:39:29 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<pre>/**
+ * This class is an implementation class for all the rest services
+ */
+Class [ <user> class SugarRestServiceImpl extends SugarWebServiceImpl ] {
+  
+
+  - Constants [0] {
+  }
+
+  - Static properties [1] {
+    Property [ public static $helperObject ]
+  }
+
+  - Static methods [0] {
+  }
+
+  - Properties [0] {
+  }
+
+  - Methods [23] {
+    Method [ <user> public method md5 ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $string ]
+      }
+    }
+
+    /**
+     * Retrieve a single SugarBean based on ID.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $id -- The SugarBean\'s ID value.
+     * @param Array  $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $id ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of SugarBean\'s based on provided IDs. This API will not wotk with report module
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $ids -- An array of SugarBean IDs.
+     * @param Array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $ids ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of beans.  This is the primary method for getting list of SugarBeans from Sugar using the SOAP API.
+     *
+     * @param string $session -- Session ID returned by a previous call to login.
+     * @param string $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param string $query -- SQL where clause without the word \'where\'
+     * @param string $order_by -- SQL order by clause without the phrase \'order by\'
+     * @param integer $offset -- The record offset to start from.
+     * @param array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+     * @param array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+     * @param integer $max_results -- The maximum number of records to return.  The default is the sugar configuration value for \'list_max_entries_per_page\'
+     * @param bool $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return array \'result_count\' -- integer - The number of records returned
+     *               \'next_offset\' -- integer - The start of the next page (This will always be the previous offset plus the number of rows returned.  It does not indicate if there is additional data unless you calculate that the next_offset happens to be closer than it should be.
+     *               \'entry_list\' -- Array - The records that were retrieved
+     *                 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry_list ] {
+      
+
+      - Parameters [9] {
+        Parameter #0 [ <optional> $session = NULL ]
+        Parameter #1 [ <optional> $module_name = NULL ]
+        Parameter #2 [ <optional> $query = NULL ]
+        Parameter #3 [ <optional> $order_by = NULL ]
+        Parameter #4 [ <optional> $offset = NULL ]
+        Parameter #5 [ <optional> $select_fields = NULL ]
+        Parameter #6 [ <optional> $link_name_to_fields_array = NULL ]
+        Parameter #7 [ <optional> $max_results = NULL ]
+        Parameter #8 [ <optional> $deleted = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id - The ID of the bean in the specified module_name
+     * @param String link_field_name -- name of the link field which relates to the other module for which the relationship needs to be generated.
+     * @param array related_ids -- array of related record ids for which relationships needs to be generated
+     * @param array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @param integer $delete -- Optional, if the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationship ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <optional> $name_value_list = Array ]
+        Parameter #6 [ <optional> $delete = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param array $module_names -- Array of the name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param array $module_ids - The array of ID of the bean in the specified module_name
+     * @param array $link_field_names -- Array of the name of the link field which relates to the other module for which the relationships needs to be generated.
+     * @param array $related_ids -- array of an array of related record ids for which relationships needs to be generated
+     * @param array $name_value_lists -- Array of Array. The keys of the inner array are the SugarBean attributes, the values of the inner array are the values the attributes should have.
+     * @param array int $delete_array -- Optional, array of 0 or 1. If the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+    *
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationships ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_names ]
+        Parameter #2 [ <required> $module_ids ]
+        Parameter #3 [ <required> $link_field_names ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <required> $name_value_lists ]
+        Parameter #6 [ <required> $delete_array ]
+      }
+    }
+
+    /**
+     * Retrieve a collection of beans that are related to the specified bean and optionally return relationship data for those related beans.
+     * So in this API you can get contacts info for an account and also return all those contact\'s email address or an opportunity info also.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id -- The ID of the bean in the specified module
+     * @param String $link_field_name -- The name of the lnk field to return records from.  This name should be the name the relationship.
+     * @param String $related_module_query -- A portion of the where clause of the SQL statement to find the related items.  The SQL query will already be filtered to only include the beans that are related to the specified bean. (IGNORED)
+     * @param Array $related_fields - Array of related bean fields to be returned.
+     * @param Array $related_module_link_name_to_fields_array - For every related bean returrned, specify link fields name to fields info for that bean to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\'))).
+     * @param Number $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return Array \'entry_list\' -- Array - The records that were retrieved
+     *	     		 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts contacts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_relationships ] {
+      
+
+      - Parameters [8] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_module_query ]
+        Parameter #5 [ <required> $related_fields ]
+        Parameter #6 [ <required> $related_module_link_name_to_fields_array ]
+        Parameter #7 [ <required> $deleted ]
+      }
+    }
+
+    /**
+     * Update or create a single SugarBean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'id\' -- the ID of the bean that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entry ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Update or create a list of SugarBeans
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_lists -- Array of Bean specific Arrays where the keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'ids\' -- Array of the IDs of the beans that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entries ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_lists ]
+      }
+    }
+
+    /**
+     * Log the user into the application
+     *
+     * @param UserAuth array $user_auth -- Set user_name and password (password needs to be
+     *      in the right encoding for the type of authentication the user is setup for.  For Base
+     *      sugar validation, password is the MD5 sum of the plain text password.
+     * @param String $application -- The name of the application you are logging in from.  (Currently unused).
+     * @param array $name_value_list -- Array of name value pair of extra parameters. As of today only \'language\' and \'notifyonsave\' is supported
+     * @return Array - id - String id is the session_id of the session that was created.
+     * 				 - module_name - String - module name of user
+     * 				 - name_value_list - Array - The name value pair of user_id, user_name, user_language, user_currency_id, user_currency_name
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method login ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $user_auth ]
+        Parameter #1 [ <required> $application ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Log out of the session.  This will destroy the session and prevent other\'s from using it.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Empty
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method logout ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Gets server info. This will return information like version, flavor and gmt_time.
+     * @return Array - flavor - String - Retrieve the specific flavor of sugar.
+     * 				 - version - String - Retrieve the version number of Sugar that the server is running.
+     * 				 - gmt_time - String - Return the current time on the server in the format \'Y-m-d H:i:s\'. This time is in GMT.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_server_info ] {
+      
+    }
+
+    /**
+     * Return the user_id of the user that is logged into the current session.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return String -- the User ID of the current session
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_user_id ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Retrieve vardef information on the fields of the specified bean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $fields -- Optional, if passed then retrieve vardef information on these fields only.
+     * @return Array    \'module_fields\' -- Array - The vardef information on the selected fields.
+     *                  \'link_fields\' -- Array - The vardef information on the link fields
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_module_fields ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <optional> $fields = Array ]
+      }
+    }
+
+    /**
+     * Perform a seamless login. This is used internally during the sync process.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return 1 -- integer - if the session was authenticated
+     * @return 0 -- integer - if the session could not be authenticated
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method seamless_login ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Add or replace the attachment on a Note.
+     * Optionally you can set the relationship of this note to Accounts/Contacts and so on by setting related_module_id, related_module_name
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array \'note\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                              String \'filename\' -- The file name of the attachment
+     *                              Binary \'file\' -- The binary contents of the file.
+     * 								String \'related_module_id\' -- module id to which this note to related to
+     * 								String \'related_module_name\' - module name to which this note to related to
+     *
+     * @return Array \'id\' -- String - The ID of the Note
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $note ]
+      }
+    }
+
+    /**
+     * Retrieve an attachment from a note
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id -- The ID of the appropriate Note.
+     * @return Array \'note_attachment\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                                          String \'filename\' -- The file name of the attachment
+     *                                          Binary \'file\' -- The binary contents of the file.
+     * 											String \'related_module_id\' -- module id to which this note is related
+     * 											String \'related_module_name\' - module name to which this note is related
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * sets a new revision for this document
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array $document_revision -- Array String \'id\' -- 	The ID of the document object
+     * 											String \'document_name\' - The name of the document
+     * 											String \'revision\' - The revision value for this revision
+     *                                         	String \'filename\' -- The file name of the attachment
+     *                                          String \'file\' -- The binary contents of the file.
+     * @return Array - \'id\' - String - document revision id
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $document_revision ]
+      }
+    }
+
+    /**
+     * This method is used as a result of the .htaccess lock down on the cache directory. It will allow a
+     * properly authenticated user to download a document that they have proper rights to download.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id      -- ID of the document revision to obtain
+     * @return new_return_document_revision - Array String \'id\' -- The ID of the document revision containing the attachment
+     * 												String document_name - The name of the document
+     * 												String revision - The revision value for this revision
+     *                                         		String \'filename\' -- The file name of the attachment
+     *                                          	Binary \'file\' -- The binary contents of the file.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * Given a list of modules to search and a search string, return the id, module_name, along with the fields
+     * We will support Accounts, Bugs, Cases, Contacts, Leads, Opportunities, Project, ProjectTask, Quotes
+     *
+     * @param string $session			- Session ID returned by a previous call to login.
+     * @param string $search_string 	- string to search
+     * @param string[] $modules			- array of modules to query
+     * @param int $offset				- a specified offset in the query
+     * @param int $max_results			- max number of records to return
+     * @return Array \'entry_list\' -- Array(\'Accounts\' => array(array(\'name\' => \'first_name\', \'value\' => \'John\', \'name\' => \'last_name\', \'value\' => \'Do\')))
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method search_by_module ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $search_string ]
+        Parameter #2 [ <required> $modules ]
+        Parameter #3 [ <required> $offset ]
+        Parameter #4 [ <required> $max_results ]
+      }
+    }
+
+    /**
+     * Retrieve the list of available modules on the system available to the currently logged in user.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Array    \'modules\' -- Array - An array of module names
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_available_modules ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+    *   Once we have successfully done a mail merge on a campaign, we need to notify Sugar of the targets
+    *   and the campaign_id for tracking purposes
+    *
+    * @param String session  -- Session ID returned by a previous call to login.
+    * @param Array targets   -- a string array of ids identifying the targets used in the merge
+    * @param String campaign_id  --  the campaign_id used for the merge
+    * @return - No output
+    *
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_campaign_merge ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $targets ]
+        Parameter #2 [ <required> $campaign_id ]
+      }
+    }
+
+    /**
+*   Retrieve number of records in a given module
+*
+* @param String session      -- Session ID returned by a previous call to login.
+* @param String module_name  -- module to retrieve number of records from
+* @param String query        -- allows webservice user to provide a WHERE clause
+* @param int deleted         -- specify whether or not to include deleted records
+*
+* @return Array  result_count - integer - Total number of records for a given module and query
+* @exception \'SoapFault\' -- The SOAP error, if any
+*/
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries_count ] {
+      
+
+      - Parameters [4] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $query ]
+        Parameter #3 [ <required> $deleted ]
+      }
+    }
+  }
+}
+'
+setting headers
+sending body
+done
+client headers:array (
+  'Host' => '23.253.57.61',
+  'Accept-Charset' => 'iso-8859-1,utf-8;q=0.9,*;q=0.1',
+  'Accept-Language' => 'en',
+  'Connection' => 'Keep-Alive',
+  'Cookie' => 'PHPSESSID=h18dj0m2ttb2dgqmb7tjsp6llc',
+  'User-Agent' => '() { _; } >_[$($())] { echo Content-Type: text/plain ; echo ; echo "bash_cve_2014_6278 Output : $((9+77))"; }',
+  'Pragma' => 'no-cache',
+  'Accept' => 'image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, image/png, */*',
+)
+starting curl request
+
+finished curl request
+response:'HTTP/1.1 200 OK
+Date: Sun, 29 Aug 2021 18:39:30 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<pre>/**
+ * This class is an implementation class for all the rest services
+ */
+Class [ <user> class SugarRestServiceImpl extends SugarWebServiceImpl ] {
+  
+
+  - Constants [0] {
+  }
+
+  - Static properties [1] {
+    Property [ public static $helperObject ]
+  }
+
+  - Static methods [0] {
+  }
+
+  - Properties [0] {
+  }
+
+  - Methods [23] {
+    Method [ <user> public method md5 ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $string ]
+      }
+    }
+
+    /**
+     * Retrieve a single SugarBean based on ID.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $id -- The SugarBean\'s ID value.
+     * @param Array  $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $id ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of SugarBean\'s based on provided IDs. This API will not wotk with report module
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $ids -- An array of SugarBean IDs.
+     * @param Array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+    * @param Array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+    * @return Array
+    *        \'entry_list\' -- Array - The records name value pair for the simple data types excluding link field data.
+    *	     \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $ids ]
+        Parameter #3 [ <required> $select_fields ]
+        Parameter #4 [ <required> $link_name_to_fields_array ]
+      }
+    }
+
+    /**
+     * Retrieve a list of beans.  This is the primary method for getting list of SugarBeans from Sugar using the SOAP API.
+     *
+     * @param string $session -- Session ID returned by a previous call to login.
+     * @param string $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param string $query -- SQL where clause without the word \'where\'
+     * @param string $order_by -- SQL order by clause without the phrase \'order by\'
+     * @param integer $offset -- The record offset to start from.
+     * @param array $select_fields -- A list of the fields to be included in the results. This optional parameter allows for only needed fields to be retrieved.
+     * @param array $link_name_to_fields_array -- A list of link_names and for each link_name, what fields value to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\')))
+     * @param integer $max_results -- The maximum number of records to return.  The default is the sugar configuration value for \'list_max_entries_per_page\'
+     * @param bool $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return array \'result_count\' -- integer - The number of records returned
+     *               \'next_offset\' -- integer - The start of the next page (This will always be the previous offset plus the number of rows returned.  It does not indicate if there is additional data unless you calculate that the next_offset happens to be closer than it should be.
+     *               \'entry_list\' -- Array - The records that were retrieved
+     *                 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entry_list ] {
+      
+
+      - Parameters [9] {
+        Parameter #0 [ <optional> $session = NULL ]
+        Parameter #1 [ <optional> $module_name = NULL ]
+        Parameter #2 [ <optional> $query = NULL ]
+        Parameter #3 [ <optional> $order_by = NULL ]
+        Parameter #4 [ <optional> $offset = NULL ]
+        Parameter #5 [ <optional> $select_fields = NULL ]
+        Parameter #6 [ <optional> $link_name_to_fields_array = NULL ]
+        Parameter #7 [ <optional> $max_results = NULL ]
+        Parameter #8 [ <optional> $deleted = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id - The ID of the bean in the specified module_name
+     * @param String link_field_name -- name of the link field which relates to the other module for which the relationship needs to be generated.
+     * @param array related_ids -- array of related record ids for which relationships needs to be generated
+     * @param array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @param integer $delete -- Optional, if the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationship ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <optional> $name_value_list = Array ]
+        Parameter #6 [ <optional> $delete = false ]
+      }
+    }
+
+    /**
+     * Set a single relationship between two beans.  The items are related by module name and id.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param array $module_names -- Array of the name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param array $module_ids - The array of ID of the bean in the specified module_name
+     * @param array $link_field_names -- Array of the name of the link field which relates to the other module for which the relationships needs to be generated.
+     * @param array $related_ids -- array of an array of related record ids for which relationships needs to be generated
+     * @param array $name_value_lists -- Array of Array. The keys of the inner array are the SugarBean attributes, the values of the inner array are the values the attributes should have.
+     * @param array int $delete_array -- Optional, array of 0 or 1. If the value 0 or nothing is passed then it will add the relationship for related_ids and if 1 is passed, it will delete this relationship for related_ids
+     * @return Array - created - integer - How many relationships has been created
+     *               - failed - integer - How many relationsip creation failed
+     * 				 - deleted - integer - How many relationships were deleted
+    *
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_relationships ] {
+      
+
+      - Parameters [7] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_names ]
+        Parameter #2 [ <required> $module_ids ]
+        Parameter #3 [ <required> $link_field_names ]
+        Parameter #4 [ <required> $related_ids ]
+        Parameter #5 [ <required> $name_value_lists ]
+        Parameter #6 [ <required> $delete_array ]
+      }
+    }
+
+    /**
+     * Retrieve a collection of beans that are related to the specified bean and optionally return relationship data for those related beans.
+     * So in this API you can get contacts info for an account and also return all those contact\'s email address or an opportunity info also.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module that the primary record is from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param String $module_id -- The ID of the bean in the specified module
+     * @param String $link_field_name -- The name of the lnk field to return records from.  This name should be the name the relationship.
+     * @param String $related_module_query -- A portion of the where clause of the SQL statement to find the related items.  The SQL query will already be filtered to only include the beans that are related to the specified bean. (IGNORED)
+     * @param Array $related_fields - Array of related bean fields to be returned.
+     * @param Array $related_module_link_name_to_fields_array - For every related bean returrned, specify link fields name to fields info for that bean to be returned. For ex.\'link_name_to_fields_array\' => array(array(\'name\' =>  \'email_addresses\', \'value\' => array(\'id\', \'email_address\', \'opt_out\', \'primary_address\'))).
+     * @param Number $deleted -- false if deleted records should not be include, true if deleted records should be included.
+     * @return Array \'entry_list\' -- Array - The records that were retrieved
+     *	     		 \'relationship_list\' -- Array - The records link field data. The example is if asked about accounts contacts email address then return data would look like Array ( [0] => Array ( [name] => email_addresses [records] => Array ( [0] => Array ( [0] => Array ( [name] => id [value] => 3fb16797-8d90-0a94-ac12-490b63a6be67 ) [1] => Array ( [name] => email_address [value] => hr.kid.qa@example.com ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 1 ) ) [1] => Array ( [0] => Array ( [name] => id [value] => 403f8da1-214b-6a88-9cef-490b63d43566 ) [1] => Array ( [name] => email_address [value] => kid.hr@example.name ) [2] => Array ( [name] => opt_out [value] => 0 ) [3] => Array ( [name] => primary_address [value] => 0 ) ) ) ) )
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_relationships ] {
+      
+
+      - Parameters [8] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $module_id ]
+        Parameter #3 [ <required> $link_field_name ]
+        Parameter #4 [ <required> $related_module_query ]
+        Parameter #5 [ <required> $related_fields ]
+        Parameter #6 [ <required> $related_module_link_name_to_fields_array ]
+        Parameter #7 [ <required> $deleted ]
+      }
+    }
+
+    /**
+     * Update or create a single SugarBean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_list -- The keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'id\' -- the ID of the bean that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entry ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Update or create a list of SugarBeans
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $name_value_lists -- Array of Bean specific Arrays where the keys of the array are the SugarBean attributes, the values of the array are the values the attributes should have.
+     * @return Array    \'ids\' -- Array of the IDs of the beans that was written to (-1 on error)
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_entries ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $name_value_lists ]
+      }
+    }
+
+    /**
+     * Log the user into the application
+     *
+     * @param UserAuth array $user_auth -- Set user_name and password (password needs to be
+     *      in the right encoding for the type of authentication the user is setup for.  For Base
+     *      sugar validation, password is the MD5 sum of the plain text password.
+     * @param String $application -- The name of the application you are logging in from.  (Currently unused).
+     * @param array $name_value_list -- Array of name value pair of extra parameters. As of today only \'language\' and \'notifyonsave\' is supported
+     * @return Array - id - String id is the session_id of the session that was created.
+     * 				 - module_name - String - module name of user
+     * 				 - name_value_list - Array - The name value pair of user_id, user_name, user_language, user_currency_id, user_currency_name
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method login ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $user_auth ]
+        Parameter #1 [ <required> $application ]
+        Parameter #2 [ <required> $name_value_list ]
+      }
+    }
+
+    /**
+     * Log out of the session.  This will destroy the session and prevent other\'s from using it.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Empty
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method logout ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Gets server info. This will return information like version, flavor and gmt_time.
+     * @return Array - flavor - String - Retrieve the specific flavor of sugar.
+     * 				 - version - String - Retrieve the version number of Sugar that the server is running.
+     * 				 - gmt_time - String - Return the current time on the server in the format \'Y-m-d H:i:s\'. This time is in GMT.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_server_info ] {
+      
+    }
+
+    /**
+     * Return the user_id of the user that is logged into the current session.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return String -- the User ID of the current session
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_user_id ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Retrieve vardef information on the fields of the specified bean.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $module_name -- The name of the module to return records from.  This name should be the name the module was developed under (changing a tab name is studio does not affect the name that should be passed into this method)..
+     * @param Array $fields -- Optional, if passed then retrieve vardef information on these fields only.
+     * @return Array    \'module_fields\' -- Array - The vardef information on the selected fields.
+     *                  \'link_fields\' -- Array - The vardef information on the link fields
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_module_fields ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <optional> $fields = Array ]
+      }
+    }
+
+    /**
+     * Perform a seamless login. This is used internally during the sync process.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return 1 -- integer - if the session was authenticated
+     * @return 0 -- integer - if the session could not be authenticated
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method seamless_login ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+     * Add or replace the attachment on a Note.
+     * Optionally you can set the relationship of this note to Accounts/Contacts and so on by setting related_module_id, related_module_name
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array \'note\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                              String \'filename\' -- The file name of the attachment
+     *                              Binary \'file\' -- The binary contents of the file.
+     * 								String \'related_module_id\' -- module id to which this note to related to
+     * 								String \'related_module_name\' - module name to which this note to related to
+     *
+     * @return Array \'id\' -- String - The ID of the Note
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $note ]
+      }
+    }
+
+    /**
+     * Retrieve an attachment from a note
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id -- The ID of the appropriate Note.
+     * @return Array \'note_attachment\' -- Array String \'id\' -- The ID of the Note containing the attachment
+     *                                          String \'filename\' -- The file name of the attachment
+     *                                          Binary \'file\' -- The binary contents of the file.
+     * 											String \'related_module_id\' -- module id to which this note is related
+     * 											String \'related_module_name\' - module name to which this note is related
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_note_attachment ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * sets a new revision for this document
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param Array $document_revision -- Array String \'id\' -- 	The ID of the document object
+     * 											String \'document_name\' - The name of the document
+     * 											String \'revision\' - The revision value for this revision
+     *                                         	String \'filename\' -- The file name of the attachment
+     *                                          String \'file\' -- The binary contents of the file.
+     * @return Array - \'id\' - String - document revision id
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $document_revision ]
+      }
+    }
+
+    /**
+     * This method is used as a result of the .htaccess lock down on the cache directory. It will allow a
+     * properly authenticated user to download a document that they have proper rights to download.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @param String $id      -- ID of the document revision to obtain
+     * @return new_return_document_revision - Array String \'id\' -- The ID of the document revision containing the attachment
+     * 												String document_name - The name of the document
+     * 												String revision - The revision value for this revision
+     *                                         		String \'filename\' -- The file name of the attachment
+     *                                          	Binary \'file\' -- The binary contents of the file.
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_document_revision ] {
+      
+
+      - Parameters [2] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $id ]
+      }
+    }
+
+    /**
+     * Given a list of modules to search and a search string, return the id, module_name, along with the fields
+     * We will support Accounts, Bugs, Cases, Contacts, Leads, Opportunities, Project, ProjectTask, Quotes
+     *
+     * @param string $session			- Session ID returned by a previous call to login.
+     * @param string $search_string 	- string to search
+     * @param string[] $modules			- array of modules to query
+     * @param int $offset				- a specified offset in the query
+     * @param int $max_results			- max number of records to return
+     * @return Array \'entry_list\' -- Array(\'Accounts\' => array(array(\'name\' => \'first_name\', \'value\' => \'John\', \'name\' => \'last_name\', \'value\' => \'Do\')))
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method search_by_module ] {
+      
+
+      - Parameters [5] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $search_string ]
+        Parameter #2 [ <required> $modules ]
+        Parameter #3 [ <required> $offset ]
+        Parameter #4 [ <required> $max_results ]
+      }
+    }
+
+    /**
+     * Retrieve the list of available modules on the system available to the currently logged in user.
+     *
+     * @param String $session -- Session ID returned by a previous call to login.
+     * @return Array    \'modules\' -- Array - An array of module names
+     * @exception \'SoapFault\' -- The SOAP error, if any
+     */
+    Method [ <user, inherits SugarWebServiceImpl> public method get_available_modules ] {
+      
+
+      - Parameters [1] {
+        Parameter #0 [ <required> $session ]
+      }
+    }
+
+    /**
+    *   Once we have successfully done a mail merge on a campaign, we need to notify Sugar of the targets
+    *   and the campaign_id for tracking purposes
+    *
+    * @param String session  -- Session ID returned by a previous call to login.
+    * @param Array targets   -- a string array of ids identifying the targets used in the merge
+    * @param String campaign_id  --  the campaign_id used for the merge
+    * @return - No output
+    *
+    * @exception \'SoapFault\' -- The SOAP error, if any
+    */
+    Method [ <user, inherits SugarWebServiceImpl> public method set_campaign_merge ] {
+      
+
+      - Parameters [3] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $targets ]
+        Parameter #2 [ <required> $campaign_id ]
+      }
+    }
+
+    /**
+*   Retrieve number of records in a given module
+*
+* @param String session      -- Session ID returned by a previous call to login.
+* @param String module_name  -- module to retrieve number of records from
+* @param String query        -- allows webservice user to provide a WHERE clause
+* @param int deleted         -- specify whether or not to include deleted records
+*
+* @return Array  result_count - integer - Total number of records for a given module and query
+* @exception \'SoapFault\' -- The SOAP error, if any
+*/
+    Method [ <user, inherits SugarWebServiceImpl> public method get_entries_count ] {
+      
+
+      - Parameters [4] {
+        Parameter #0 [ <required> $session ]
+        Parameter #1 [ <required> $module_name ]
+        Parameter #2 [ <required> $query ]
+        Parameter #3 [ <required> $deleted ]
+      }
+    }
+  }
+}
+'
+setting headers
+sending body
+done
